@@ -25,34 +25,34 @@
   
 ### 🏪 Admin Dashboard & Management
 <p float="left">
-  <img src="assets/images/admin-dashboard.png" alt="Admin Dashboard" width="200"/>
-  <img src="assets/images/order-management.png" alt="Order Management" width="200"/>
-  <img src="assets/images/products-management.png" alt="Products Management" width="200"/>
-  <img src="assets/images/admin-profile.png" alt="Admin Profile" width="200"/>
+  <img src="assets/images/admin-dashboard.jpg" alt="Admin Dashboard" width="200"/>
+  <img src="assets/images/order-management.jpg" alt="Order Management" width="200"/>
+  <img src="assets/images/products-management.jpg" alt="Products Management" width="200"/>
+  <img src="assets/images/admin-profile.jpg" alt="Admin Profile" width="200"/>
 </p>
 
 ### 💳 Payment & Settings
 <p float="left">
-  <img src="assets/images/payment-methods.png" alt="Payment Methods" width="200"/>
-  <img src="assets/images/admin-settings.png" alt="Admin Settings" width="200"/>
-  <img src="assets/images/category-management.png" alt="Category Management" width="200"/>
-  <img src="assets/images/user-management.png" alt="User Management" width="200"/>
+  <img src="assets/images/payment-methods.jpg" alt="Payment Methods" width="200"/>
+  <img src="assets/images/admin-settings.jpg" alt="Admin Settings" width="200"/>
+  <img src="assets/images/category-management.jpg" alt="Category Management" width="200"/>
+  <img src="assets/images/user-management.jpg" alt="User Management" width="200"/>
 </p>
 
 ### 🛍️ Shopping Experience
 <p float="left">
-  <img src="assets/images/home-screen.png" alt="Home Screen" width="200"/>
-  <img src="assets/images/products-screen.png" alt="Products Screen" width="200"/>
-  <img src="assets/images/shopping-cart.png" alt="Shopping Cart" width="200"/>
-  <img src="assets/images/checkout.png" alt="Checkout Process" width="200"/>
+  <img src="assets/images/home-screen.jpg" alt="Home Screen" width="200"/>
+  <img src="assets/images/products-screen.jpg" alt="Products Screen" width="200"/>
+  <img src="assets/images/shopping-cart.jpg" alt="Shopping Cart" width="200"/>
+  <img src="assets/images/checkout.jpg" alt="Checkout Process" width="200"/>
 </p>
 
 ### 👤 Authentication & Orders
 <p float="left">
-  <img src="assets/images/login-screen.png" alt="Login Screen" width="200"/>
-  <img src="assets/images/signup-screen.png" alt="Sign Up Screen" width="200"/>
-  <img src="assets/images/order-history.png" alt="Order History" width="200"/>
-  <img src="assets/images/splash-screen.png" alt="Splash Screen" width="200"/>
+  <img src="assets/images/login-screen.jpg" alt="Login Screen" width="200"/>
+  <img src="assets/images/signup-screen.jpg" alt="Sign Up Screen" width="200"/>
+  <img src="assets/images/order-history.jpg" alt="Order History" width="200"/>
+  <img src="assets/images/splash-screen.jpg" alt="Splash Screen" width="200"/>
 </p>
 
 </div>
