@@ -1,8 +1,9 @@
-#  <img src="assets/images/easycart.png" alt="EasyCart Logo" width="120" height="120"> EasyCart - Modern E-commerce Mobile App
+
 
 <div align="center">
   <img src="assets/images/easycart.png" alt="EasyCart Logo" width="120" height="120">
-  
+  EasyCart - Modern E-commerce Mobile App
+
   <p align="center">
     <strong>A beautiful, feature-rich e-commerce mobile application built with React Native, Expo, and Firebase</strong>
   </p>
@@ -397,4 +398,5 @@ This is a demonstration project. For production use, consider:
 
 ## License
 MIT License - Feel free to use this code for learning and development purposes.
+
 
