@@ -19,10 +19,6 @@
   </p>
 </div>
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
 ## ✨ Key Features
 
 ### 🔐 Authentication & Security
@@ -397,3 +393,4 @@ This is a demonstration project. For production use, consider:
 
 ## License
 MIT License - Feel free to use this code for learning and development purposes.
+
