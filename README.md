@@ -2,10 +2,6 @@
 
 A beautiful, feature-rich e-commerce mobile application built with React Native, Expo, and Firebase. EasyCart provides a seamless shopping experience with modern UI design, comprehensive functionality, and professional user experience.
 
-## 📱 Screenshots
-
-*Add your app screenshots here*
-
 ## ✨ Key Features
 
 ### 🔐 Authentication & Security
@@ -379,4 +375,5 @@ This is a demonstration project. For production use, consider:
 - Testing implementation
 
 ## License
+
 MIT License - Feel free to use this code for learning and development purposes.
