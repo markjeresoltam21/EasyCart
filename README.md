@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/images/easycart.png" alt="EasyCart Logo" width="120" height="120">
   
-  <h1>EasyCart - A Simple Online Shopping Cart App</h1>
+  <h1>EasyCart - Modern E-commerce Mobile App</h1>
 
   <p align="center">
     <strong>A beautiful, feature-rich e-commerce mobile application built with React Native, Expo, and Firebase</strong>
@@ -17,6 +17,44 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
   </p>
+</div>
+
+## 📱 Screenshots
+
+<div align="center">
+  
+### 🏪 Admin Dashboard & Management
+<p float="left">
+  <img src="assets/images/admin-dashboard.png" alt="Admin Dashboard" width="200"/>
+  <img src="assets/images/order-management.png" alt="Order Management" width="200"/>
+  <img src="assets/images/products-management.png" alt="Products Management" width="200"/>
+  <img src="assets/images/admin-profile.png" alt="Admin Profile" width="200"/>
+</p>
+
+### 💳 Payment & Settings
+<p float="left">
+  <img src="assets/images/payment-methods.png" alt="Payment Methods" width="200"/>
+  <img src="assets/images/admin-settings.png" alt="Admin Settings" width="200"/>
+  <img src="assets/images/category-management.png" alt="Category Management" width="200"/>
+  <img src="assets/images/user-management.png" alt="User Management" width="200"/>
+</p>
+
+### 🛍️ Shopping Experience
+<p float="left">
+  <img src="assets/images/home-screen.png" alt="Home Screen" width="200"/>
+  <img src="assets/images/products-screen.png" alt="Products Screen" width="200"/>
+  <img src="assets/images/shopping-cart.png" alt="Shopping Cart" width="200"/>
+  <img src="assets/images/checkout.png" alt="Checkout Process" width="200"/>
+</p>
+
+### 👤 Authentication & Orders
+<p float="left">
+  <img src="assets/images/login-screen.png" alt="Login Screen" width="200"/>
+  <img src="assets/images/signup-screen.png" alt="Sign Up Screen" width="200"/>
+  <img src="assets/images/order-history.png" alt="Order History" width="200"/>
+  <img src="assets/images/splash-screen.png" alt="Splash Screen" width="200"/>
+</p>
+
 </div>
 
 ## ✨ Key Features
@@ -393,5 +431,3 @@ This is a demonstration project. For production use, consider:
 
 ## License
 MIT License - Feel free to use this code for learning and development purposes.
-
-
